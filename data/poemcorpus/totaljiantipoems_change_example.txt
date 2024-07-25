@@ -1,99 +1,699 @@
-Title 赋得涉江采芙蓉 孔德绍 唐
-莲舟泛锦碛
-极目眺江干
-沿流渡楫易
-逆浪取花难
-有雾疑川广
-无风见水宽
-朝来采摘倦
-讵得久盘桓
-Title 赋得华亭鹤 孔德绍 唐
-华亭失侣鹤
-乘轩宠遂终
-三山凌苦雾
-千里激悲风
-心危白露下
-声断綵弦中
-何言斯物变
-翻覆似辽东
-Title 送刘散员同赋陈思王诗得好鸟鸣高枝 刘斌 唐
-春林已自好
-时鸟复和鸣
-枝交难奋翼
-谷静易流声
-间关才得性
-矰缴遽相惊
-安知背飞远
-拂雾独晨征
-Title 咏山 刘斌 唐
-灵山峙千仞
-蔽日且嵯峨
-紫盖云阴远
-香炉烟气多
-石梁高鸟路
-瀑水近天河
-欲知闻道里
-别自有仙歌
-Title 中妇织流黄 虞世南 唐
-寒闺织素锦
-含怨敛双蛾
-综新交缕涩
-经脆断丝多
-衣香逐举袖
-钏动应鸣梭
-还恐裁缝罢
-无信达交河
-Title 奉和咏日午 虞世南 唐
-高天净秋色
-长汉转曦车
-玉树阴初正
-桐圭影未斜
-翠盖飞圆彩
-明镜发轻花
-再中良表瑞
-共仰璧晖赊
-Title 赋得临池竹应制 虞世南 唐
-葱翠梢云质
-垂彩映清池
-波泛含风影
-流摇防露枝
-龙鳞漾嶰谷
-凤翅拂涟漪
-欲识凌冬性
-唯有岁寒知
-Title 侍宴应诏赋韵得前字 虞世南 唐
-芬芳禁林晚
-容与桂丹前
-横空一鸟度
-照水百花然
-绿野明斜日
-青山澹晚烟
-滥陪终宴赏
-握管类窥天
-Title 侍宴归雁堂 虞世南 唐
-歌堂面渌水
-舞馆接金塘
-竹开霜后翠
-梅动雪前香
-凫归初命侣
-雁起欲分行
-刷羽同栖集
-怀恩愧稻粱
-Title 凌晨早朝 虞世南 唐
-万瓦宵光曙
-重檐夕雾收
-玉花停夜烛
-金壶送晓筹
-日晖青琐殿
-霞生结绮楼
-重门应启路
-通籍引王侯
-Title 奉和献岁宴宫臣 虞世南 唐
-履端初起节
-长苑命高筵
-肆夏喧金奏
-重润响朱弦
-春光催柳色
-日彩泛槐烟
-微臣同滥吹
-谬得仰钧天
+Tiêu đề Bán hoa đào
+Vang bóng thanh bình phố đỏ trưng
+Mươi lăm thầy khoá viết khom lưng
+Dăm nàng gái nõn ngon như mứt
+Đi sánh hoa đào vẻ má nhung
+
+Có một thân tang mang trắng phơ
+Ngang đầu mầu tóc lẫn mầu sơ
+Lão buồn đi bán cành hương thắm
+Hoa đỏ... mừng vang, áo... bạc mờ!
+
+Ai cũng như ai bận tiếp xuân
+Mê man sắc tía ngả đầy tâm
+Riêng cô, lão bán muôn hồn đỏ
+Rồi lủi về đâu, kiếp lệ thầm?
+
+Có những lòng trinh bán một giờ
+Vợ người cơ lỡ bán con thơ
+Cùng đường, trai bán thân cao trọng
+Có vạn linh hồn đã bán mua
+
+Như lão rao hoa có vạn tình
+Trĩu trời tang, nặng kiếp thương sinh
+Tháng ngày âm ỉ nguồn đau cháy
+Trong mắt u trầm ngọn lửa xanh!
+
+Nghiến răng đem bán hết đời xuân
+Có kẻ màu tang chẳng một lần
+Chảy dưới mắt đời, khi tất cả
+Máu đào tranh chảy đã muôn năm.
+
+Tiêu đề Các anh
+Các anh hãy chuốc thực say,
+Cho tôi những cốc rượu đầy rồi im.
+Giờ hình như quá nửa đêm,
+Lòng đau, đau lại trái tim cuối mùa.
+
+Hơi đàn buồn như trời mưa,
+Các anh tắt nốt âm thừa đi thôi.
+Giờ hình như ở ngoài trời,
+Tiếng xe đã, nghiến đã rời rã đi.
+
+Tâm tình lạnh nhạt đâu nghe,
+Tiếng mùa lá chết đã xê dịch chiều.
+Giờ hình như gió thổi nhiều,
+Những loài hoa máu đã giao nối đời.
+
+Bao nhiêu nghệ sĩ nổi trôi,
+Sá chi cái đẹp dưới trời mong manh.
+Sá chi những chuyện tâm tình,
+Lòng đau đem chữa trong bình chua cay...
+
+Tiêu đề Can trường hành
+Trăm giàn lý đỏ đã lên hoa
+Tâm sự như in cảnh ác tà
+Đạo nghĩa hoài đem chơi bạn quỷ
+Thân hình hậu gửi kết duyên ma
+Ngậm lời tráng khí chim bằng ốm
+Chuyện lúc thương tâm, gái điếm già
+Gió thốc hàng hiên, lười viễn mộng
+Mưa rào mặt cát, gợi ly ca
+Phiếm du mấy chốc đời như mộng
+Ném chén cười cho đã mắt ta
+Thà với mãng phu ngoài bến nước
+Uống dăm chén rượu quăng tay thước
+Cái sống ngang tàng quen bốc men
+Thù với hào hùng chí thiếu niên,
+Vỗ vai sang sảng giọng Bình Nguyên,
+Chàng là bậc trẻ không biết sợ
+Đôi mắt hồng say sao Hoả lên.
+Múa lưỡi đánh tan ba kẻ sĩ
+Mềm môi nốc cạn một vò men
+Mấy lần thù trả thân không chết
+Khắp xóm giang hồ khét họ tên
+Vợ con thí tất cho thiên hạ
+Yêu rất ban ngày, ghét rất đêm
+Thi với người nằm say bóng liễu
+Thi với người chờ mong kẻ rượu
+Lòng thênh thênh nhẹ gió thu sơ
+Nghĩa khí ngàn năm gió chẳng mờ!
+Hay đâu kẻ vũ đất Lương Yên
+Một sớm nghe bùng cơn gió lên,
+Xách gói sang Nam không hẹn lại
+Chỉ hiềm chẳng đụng đến cung tên!
+                 Ngươi chẳng thấy
+Thao thao Hồng Hà vạn thuở chảy
+Nước mạnh như thác, một con thuyền
+Ta lênh đênh hoài sầu biết mấy!
+                 Ngươi chẳng thấy
+Lồng lộng Tây hồ xanh như thu
+Giai nhân, danh sĩ đua ngao du
+Cùng ta tri kỷ không ai ở
+Vì đời ta cũng không an cư
+                 Ngươi chẳng thấy
+Vì đời ta buồn như thế đấy
+Cho nên tri kỷ tếch phương trời
+Chén rượu ngồi suông vắng cả người!
+
+Hôm nay lại nở hoa lý đỏ
+Trong rượu vân vân... bao vết cũ
+Người chẳng thấy rằng hoa như tím
+Hoa nát lòng ta đau vạn thuở.
+
+Tiêu đề Căm thù
+Đêm nay ta gối đầu lên súng
+Trằn trọc nằm nghe máu nóng căng đầy
+Nằm nghe mấy xã dân cày
+Xôn xao trỗi dậy, mẹ gầy ghì con
+Tiếng mưa lách rách sân trơn
+Nghe từng giây phút đang dồn sức ta
+Lửa âm ỉ bùng ra tê tái
+Trong mắt người con gái đắng cay
+Đời tươi như bát nước đầy
+Vỡ tan một tiếng dưới giầy xâm lăng!
+Cắn chặt hàm răng
+Bậm môi, nghiến lợi, già căng mặt già
+Vài mươi ông lão giữ nhà
+Thùng lùng, dao bảy, đinh ba gối đầu
+Đêm nay thức giấc thương đau,
+Vụt nghe “khốc dạ” mấy câu rợn người
+Cái gì đấy, xóm làng ơi!
+Đội quân biệt động xa xôi mới về!
+
+...Từ ruộng đất, đang kín bưng
+Lầm lỳ chết chóc, bỗng bừng sục sôi
+Cái gì đấy, xóm làng ơi!
+Cái lòng giết giặc đã tôi thép già!
+Từ trong rên xiết, toài ra.
+Có những đàn bà sâu sắc niềm đau
+Có những ông cụ bạc đầu
+Cặp mắt đỏ ngầu nhục cũ vong nô
+Tuổi thơ mấy trẻ u ơ
+Gốc cây chuối cháy lại nhô lên mầm
+Đó là nhân dân!
+Nước da quánh đậm mấy lần đất quê
+Bản thân quằn quại, ê chề,
+Bùn gai dấu mặt, chông tre rào làng
+Mọc lên tua tủa hiên ngang
+Mũi nhọn vững vàng hàng xã dân quân
+
+Súng ơi! nặng cân giận dữ
+Xung trận diệt thù mấy cữ nóng ran
+Cùng ta vượt hết cơ hàn
+Cùng ta đau cái đau toàn dân đau...
+
+Tiêu đề Chào Hương Sơn
+Thôi chào tất cả non Hương!
+Thôi chào, ôi, tiếng tầm thường mà đau!
+Một phen tri kỷ cùng nhau,
+Khói sương trời đã nhuốm màu thời gian.
+Rượu khuây, giấc tỉnh canh tàn,
+Sóng sông như dội vô vàn nhớ thương…
+Thôi chào tất cả non Hương!
+Thôi chào, ôi, tiếng tầm thường mà đau!
+Chia tay, còn vẩn bóng sầu,
+Mắt xanh ai giữ được màu thời gian?
+Sóng sông róc rách khuya tàn,
+Lạnh nghe thổn thức hơi đàn biệt ly…
+Ngàn xuân đẹp lắm làm chi,
+Quan san ngơ ngẩn đường về cho ai!
+
+
+Tiêu đề Chết
+
+Lâu quá chừng ư? Độ bảy ngày,
+Mà người bạc mệnh cỏ chưa xây,
+Lòng thân nhân đã nguôi thương tiếc,
+Thưa cả hương thờ nhung khói bay.
+
+Mấy đứa em thơ miệng đã cười,
+Ngày ngày đi nghịch cánh hoa tươi.
+Ai đâu nỡ hỏi sao nguồn lệ
+Khóc chị hôm nào đã vội thôi?
+
+Mả lạnh không hoa, hết cả hương,
+Hành nhân lạnh nhạt thiếu lòng thương.
+Dăm người tuổi tác qua thăm viếng
+Một buổi rồi quên mất độ đường.
+
+Cơm cúng thưa dâng bữa khuyết đầy,
+Bụi mờ linh vị... Đến chiều nay,
+Bỗng dưng dì ghẻ buồn vô cớ,
+Thầm tính thời gian bấm đốt tay.
+
+Rồi thản nhiên sai hoá bát nhang
+Và thiêu bài vị - kẻo màu tang
+Càng lâu càng xúi cho gia vận.
+- Từ đó mồ ai rặt cỏ vàng
+
+
+Tiêu đề Chiều mưa đường số 5
+Chiều mưa đồng rạ trắng
+Đất tề sông quạnh vắng
+Ngồi kín dưới nhà gianh
+Nghe lúa lùa ắng lặng
+Chiều mưa đường số 5
+Đôi mắt sao đăm đăm
+Chứa cả trời mây nặng
+Miền Việt Bắc xa xăm?
+Ôi núi rừng thương nhớ
+Rét mướt đã hai năm!
+Chiều mưa ngàn hoa nở
+Hoa phới bay mùa xuân
+Bếp sàn gây ngọn lửa
+Chén trà ngát tình dân
+Chiều mưa lùa các cửa
+Ngày bộ đội hành quân
+Mẹ già không nói nữa
+Nước mắt nhìn rân rân...
+Ôi đâu rồi sơn nhân
+Đâu rồi anh du kích
+Chiều mưa manh áo rách
+Vác súng vượt lên đèo
+Giao thông qua mũi địch
+Đâu rồi “nhình” với “a”
+Tiếng cười reo khúc khích
+Đón chiến sĩ quay về
+Sau trận đi phục kích
+Chiều mưa giã gạo mau
+Chầy tập đoàn thình thịch
+Ôi núi thẳm rừng sâu
+Trung đội cũ về đâu
+Biết chăng chiều mưa mau
+Nơi đây chăn giá ngắt
+Nhớ cái rét ban đầu
+Thắm mối tình Việt Bắc.
+
+Tiêu đề Dang dở
+Khi biết lòng anh như đã chết,
+Mây thôi hồng, và lá cũng thôi xanh.
+Màu hoa tươi cũng héo ở trên cành
+Và vũ trụ thảy một màu đen tối.
+
+Anh cố giữ lòng anh không bối rối
+Để mơ màng tưởng nhớ phút giây xưa.
+Em cùng anh sánh gót dưới bóng dừa,
+Một đêm trăng sáng trên đường đá đỏ.
+
+Em nói những gì? Anh còn nhớ rõ,
+Nhưng làm sao? Ai hiểu tại làm sao?
+Chim muốn bay, cũng giữ chẳng được nào,
+Tình đã chết, có mong gì sống lại!
+
+Anh không trách chi em điều ngang trái,
+Anh không buồn số kiếp quá mong manh!
+Có gì đâu khi bướm muốn xa cành,
+Anh cứ tiếc cái gì xưa đã chết.
+
+Nhưng anh biết cái gì xưa đã chết,
+Anh càng buồn, càng muốn kết thành thơ;
+Mộng đang xanh, mộng hoá bơ phờ,
+Đây bài thơ chót kính dâng tặng bạn.
+
+Và thành chúc đời em luôn tươi sáng,
+Như mộng kiều đầm ấm tuổi xuân xanh,
+Như hương trinh bát ngát ý dịu lành
+Hoà nhạc mới triều dâng tơ Hạnh phúc.
+
+Cuộc ly biệt ngờ đâu vừa đúng lúc,
+Lòng bâng khuâng, bối rối trước khúc quanh;
+Đi không đành, mà ở cũng không đành,
+Muôn chim Việt hãy về thành Nam cũ.
+
+Chiều nay lạnh, có nhiều sương rơi quá,
+Nhưng lòng anh đã bình thản lại rồi.
+Hết đau buồn và cảm thấy sục sôi
+Niềm uất hận của một thời lạc lối.
+
+Lấy nghệ thuật làm trò hề múa rối
+Đem tài hoa cung phụng sóng mắt huyền.
+Để khẩn cầu xin một nụ cười duyên;
+Nàng kiều nữ chốn lầu hoa thầm kín.
+
+Trong khi ấy, thanh niên không bịn rịn,
+Giã gia đình, trường học để ra đi.
+Hoạ xâm lăng đe doạ ở biên thuỳ,
+Kèn gọi lính giục lòng trai cứu quốc.
+
+Thôi em nhé! từ đây anh cất bước,
+Em yên lòng vui hưởng cuộc đời vui.
+Đừng buồn thương, nhớ, tiếc, hoặc ngậm ngùi,
+Muôn việc thảy đều do nơi số kiếp.
+
+Tiêu đề Đây cảnh cũ, đâu người xưa
+Đây cảnh cũ, đâu người xưa
+Tình cũ năm qua để hững hờ
+Hoa dẫu mỉm cười nhưng có ý
+Phảng buồn mặt phấn nét tương tư
+Giận thời gian, tiếc ngây thơ
+Lòng xuân tình cảm bây giờ gửi ai?
+Trinh xuân mộng cũ đi rồi
+Cảnh sinh xa vắng ngậm ngùi ly tao
+Gặp Trinh trong bóng xuân đào
+Đang khi quãng gió dạt dào chim ca
+Má hồng, hồng đượm hương hoa
+Rung rinh đọng giọt phấn nhoà sương rơi
+Hoa xuân thắm, nụ xuân tươi
+Quyện hoa hơn hớn, lòng ơi mộng lòng
+Trinh tay nâng giấc cánh hồng
+Với vần thơ hái mơ mòng tôi yêu...
+Cảm nhau từ đấy xuân chiều
+Cành thơ, lá gió dập dìu ngân nga
+Tìm Trinh trong nắng tôi ra
+Lời oanh ríu rít vuốt hoa Trinh cười
+Nhưng đây nắng liễu buồn ơi!
+Ba xuân nẩy nét chia phôi chim ngừng....
+
+Tiêu đề Hoa gạo
+Non tím, vì tan hết nắng tà;
+Đường buồn, bởi phố vắng người qua.
+Lòng ai bầm tím, ai buồn tối,
+Cũng tại rừng đời lạc lối ra.
+
+Hoa gạo hôm nay rụng với chiều,
+Để cành khô xác nứt như kêu.
+Từng cây một rách nào ai vá,
+Ai vá lành cây đã rách nhiều?
+
+Tôi ngỡ nàng đi lượm cánh hoa,
+Biếu nàng với cả một bài ca.
+Nhưng hồn thi sĩ, hồn tư tưởng,
+Nhuộm máu trong tôi đỏ chói loà!
+
+Ngó giọt hoa kia ngã xuống đường;
+Chao ơi! Tôi sợ ở nhà thương.
+Bao nhiêu miệng thổ bao nhiêu huyết,
+Khi những lòng đau ngã xuống giường.
+
+Tiêu đề Không đề
+Tháng chạp sương giăng tan ánh trăng
+Thua trời, sao tắt sắc vân vân
+Đêm nay lạnh xuống lòng cây rách
+Buồn chảy quê rêu giọt nước thầm
+
+Hiên vẩn vơ bay mạng nhện tơ
+Hồn tương lững thững ẩm như mưa
+Ngoài xa đôi tiếng rao đem vắng
+Rung cả mây trời cả ý thơ.
+
+Tôi đợi trăng tươi pha ngọt mắt
+Và chờ bóng lá đắp lòng đơn
+Hôm qua không có, hôm nay mất
+Ai rú trong trời tám hướng sương
+
+Biết mấy đời trai trong goá bụa
+Đêm ròng đứng thắp mẩu tầm hương.
+Tro tàn có đốt không hồng nữa
+Thắt lạnh bên lòng nỗi hận thương
+
+
+Tiêu đề Lưu biệt
+Tiệc này đêm cuối mai chia ly
+Anh cố lưu tôi có ích gì
+Đời người say tỉnh được bao dịp
+Xin cạn chén rượu để tôi đi
+Đau tình không xót bằng đau nghĩa
+Tay gầy cũng ném chén vô tri
+Mắt xanh cùng gửi ngoài mưa gió.
+Lòng không cùng sống với cầm thi
+Rượu xuân càng đượm say mùi cũ
+Cố nhân càng biết càng phân kỳ
+Gió lên! Gió lên! Cùng rũ rất
+Con chim còn đỗ lại làm chi
+Đất trời rộng quá tôi không chịu
+Cắm chặt sông đây một cánh bè
+Rót rượu ra anh tôi muốn uống
+Cực kỳ trong sạch cực say mê
+Sáng mai qua bến Ninh Cơ lạnh
+Sẽ thấy se lòng trận gió tê
+Giọng đàn lưu luyến làm chi nữa
+Tôi quyết đi rồi, tôi phải đi.
+
+Tiêu đề Màu máu tigôn
+Người ta trả lại cánh hoa tàn,
+Thôi thế duyên tình cũng dở dang!
+Màu máu tigôn đà biến sắc,
+Tim người yêu cũ phủ màu tang!
+
+K... hỡi! người yêu của tôi ơi!
+Nào ngờ em giết chết một đời!
+Dưới mồ đau khổ anh ghi nhớ
+Hình ảnh em hoài, mãi thế thôi.
+
+Quên làm sao được thuở ban đầu
+Một cánh tigôn dạ khắc sâu!
+Một cánh hoa xưa màu hy vọng!
+Nay còn dư ảnh trái tim đau.
+
+Anh biết làm sao được hỡi trời!
+Dứt tình bao nỡ, nhớ không thôi!
+Thôi em hãy giữ cành hoa úa,
+Kỷ niệm ngàn năm một cuộc đời!
+
+Tiêu đề Một mảnh tình
+Đôi lứa phương tâm một mảnh tình,
+Như trăng, vàng mở vẹn gương trinh.
+Chén sen ráo miệng, thề pha luỵ;
+Quạt trúc trao tay, ước lỗi hình.
+
+Gió trái luống gào duyên cựu mộng,
+Dây oan chưa dứt chí kim sinh!
+Say ngùi ta đốt tương tư thảo,
+Bóng khói qua mây, lại nhớ mình...
+
+
+Tiêu đề Mơ thuở thanh bình
+Bừng sáng, xuân bay tang tảng sương
+Canh gà heo hút nẻo giang thôn
+Chài ai gấp gấp giăng giăng bạc
+Tiếng mác qua giời, dịp sáo non
+
+Sớm dậy thương nhân lắng gió lên
+Để phờ mái tóc, nhác cương yên
+Bàng hoàng khiến ngựa, người mơ ngỡ
+Một cỗ thanh bình trong sáng êm
+
+Chợt bỗng đồn binh rộn tiếng kèn!
+Giật mình khách nhớ một đôi đêm
+Hiệu còi phòng động nghe kinh hoảng:
+- A! Thuở trăm thành gọi lính lên!...
+
+Tai hại bao nhiêu sự thực đời
+Trừng lên, đập hết mộng! Như người
+Tưởng yên tĩnh sống trong khung cổ
+Vụt tiếng kèn vang nhắc... hiện thời
+
+Tiêu đề Ngậm ngùi cố sự
+Lảo đảo năm canh lệ mấy hàng,
+Ngậm ngùi cố sự, bóng lưu quang.
+Cuối thu, mưa nát lòng dâu biển,
+Ngày muộn, chuông đau chuyện đá vàng.
+Chán ngán nhân tình, sầu ngất ngất,
+Già teo thân thế, hận mang mang...
+Thẹn cùng trời đất mòn xuôi ngược,
+Chí lớn không đầy nửa tấc gang.
+
+Tiêu đề Ngược gió
+Trời hỡi! Mai này tôi phải đi
+Thơ này rồi chẳng đọc ai nghe
+Đời nhiều nhưng có dăm người bạn
+Thì viễn ly không hứa hẹn về
+
+Tuổi lệ nhầm nuôi những nhớ thương
+Lòng thành chim chích hoặc hoa đơn
+Gọi hoài... Nhưng có dăm trinh nữ
+Cũng đã dâng chồng hết phấn hương
+
+Ngõ cũ đôi hàng gió ngã xoan
+Lòng quê đợi lúc lắng giờ tan
+May còn có lão dăm đầu bạc
+Xót lũ đầu xanh, lặng mắt vàng
+
+...Mà đọc thơ già tiễn trẻ đi
+Càng nghe trầm giọng, dạ càng se
+Ngày mai ngược gió tôi xin ngược
+Ai có quan tâm gọi trở về.
+
+Trời hỡi, ngày mai ngày mốt thôi
+Ngày mai cay đắng nhất ly bôi
+Ngày mai có những tay tàn ác
+Cướp của tôi đi hết mọi người.
+Tiêu đề Tống biệt hành
+Đưa người, ta không đưa qua sông,
+Sao có tiếng sóng ở trong lòng?
+Bóng chiều không thắm, không vàng vọt,
+Sao đầy hoàng hôn trong mắt trong?
+Đưa người, ta chỉ đưa người ấy
+Một giã gia đình, một dửng dưng...
+
+- Ly khách! Ly khách! Con đường nhỏ,
+Chí nhớn chưa về bàn tay không,
+Thì không bao giờ nói trở lại!
+Ba năm mẹ già cũng đừng mong!
+
+         *
+
+Ta biết người buồn chiều hôm trước:
+Bây giờ mùa hạ sen nở nốt,
+Một chị, hai chị cũng như sen
+Khuyên nốt em trai dòng lệ sót.
+
+Ta biết người buồn sáng hôm nay:
+Giời chưa mùa thu, tươi lắm thay,
+Em nhỏ ngây thơ đôi mắt biếc
+Gói tròn thương tiếc chiếc khăn tay...
+
+Người đi? Ừ nhỉ, người đi thực!
+Mẹ thà coi như chiếc lá bay,
+Chị thà coi như là hạt bụi,
+Em thà coi như hơi rượu say.
+Mây thu đầu núi, gió lên trăng,
+Cơn lạnh chiều nao đổ bóng thầm.
+Ly khách ven trời nghe muốn khóc,
+Tiếng Đời xô động, tiếng hờn câm.
+
+Tiêu đề Trả lời của người yêu
+Các anh hãy chuốc thật say,
+Cho tôi những cốc rượu đầy rồi im!
+Giờ hình như quá nửa đêm,
+Lòng đau đau lại cái tin cuối mùa.
+Hơi đàn buồn tựa trời mưa,
+Các anh tắt nốt âm thừa đi thôi!
+Giờ hình như đã tối rồi,
+Bánh xem đã nghiến, đã rời rã đi!...
+
+Hồn tôi lờ mờ sương khuya,
+Hờ rung tôi viết bài thơ trả lời.
+Vâng, tôi vẫn biết có người
+Một đêm cố tưởng rằng tôi là chồng,
+Để hôm sau khóc trong lòng.
+Vâng, tôi vẫn biết cánh đồng thời gian,
+Hôm qua rụng hết lá vàng,
+Và tôi lỡ chuyến chiều tàn về không.
+Tiếng xe trong vết bụi hồng,
+Nàng đi thuở ấy nhưng trong khói mờ.
+Tiếng xe trong xác pháo xưa,
+Nàng đi có mấy bài thơ trở về.
+Tiếng xe mở lối vu quy,
+Hay là tiếng cắt nàng chia cuộc đời.
+Miệng chồng Khánh gắn trên môi,
+Hình anh mắt Khánh sáng ngời còn mơ.
+Đàn xưa từ chia đường tơ,
+Sao tôi không biết hững hờ nàng đan.
+Kéo dài một chiếc áo lam,
+Tơ càng đứt mối, nàng càng kéo giay.
+
+Nàng còn gỡ mãi trên tay,
+Thì tơ duyên mới đã thay hẳn mầu.
+Chung hai thứ tóc đôi đầu,
+Bao giờ đan nổi những câu ân tình.
+Khánh ơi, còn hỏi gì anh?
+Lá rơi đã hết màu xanh màu vàng.
+Chỉ kêu những tiếng thu tàn,
+Tình ta đã chết anh càng muốn xa.
+Chiều tan, chiều tắt, chiều tà,
+Ngày mai, ngày mốt vẫn là ngày nay.
+Em quên mất lối chim bay,
+Và em sẽ chán trông mây trông mờ.
+Đoàn viên từng phút từng giờ,
+Sóng yên lặng thế em chờ gì hơn?
+Từng năm từng đứa con son,
+Mím môi vá kín vết thương lại lành.
+Khánh đi còn hỏi gì anh,
+Ái tình đã vỡ, ái tình lại nguyên.
+Em về đan nốt tơ duyên,
+Vào tà áo mới, đừng tìm mối xưa.
+Bao nhiêu hạt lệ còn thừa,
+Dành ngày sau khóc những giờ vị vong.
+Bao nhiêu những cánh hoa lòng,
+Hãy dâng cho trọn nghĩa chồng hồn cha.
+Nhắc làm chi chuyện đôi ta,
+Bản năng anh đã phong ba dập vùi.
+
+Hãy vui lên các anh ơi!
+Nàng đi tôi gọi hồn tôi trở về.
+Tâm hồn lạnh nhạt đê mê,
+Tiếng mùa lá chết đã xê dịch chiều.
+Giờ hình như gió thổi nhiều,
+Những loài hoa máu đã gieo nốt đời.
+Tâm hồn nghệ sĩ nổi trôi,
+Sá chi cái đẹp dưới trời mong manh.
+Sái chi những truyện tâm tình,
+Lòng đau đem chứa trong bình rượu cay.
+
+Tiêu đề Tráng ca
+Sinh ta, cha ném bút rồi,
+Rừng nho tàn rụng cho đời sang xuân.
+Nuôi ta, mẹ héo từng năm,
+Vắt bầu sữa cạn, tê chân máu gầy.
+Dạy ta, ba bảy ông thầy,
+Gươm dài sách rộng, biển đầy núi vơi.
+Nhà ta cầm đợ tay người,
+Kép bông đâu áo, ngọt bùi đâu cơm?
+Chong gai đổi dại làm khôn,
+Ba vòng, mòng sếu lượn vòng lại bay...
+Bông hoa chu giáp vần xoay,
+Cánh vàng non nửa đài gầy tả tơi.
+Chữ nhân sáng rực sao trời,
+Đường xe mở rộng chân người bước xa...
+Bọn ta một lớp lìa nhà,
+Cháo hàng cơ chợ, ngồi ca lúa đồng,
+Hây hây tóc óng từng vòng,
+Gió nào là gió chẳng mong thổi lùa!
+Trường đình phá bỏ từ xưa,
+Đất này sạch khí tiễn đưa cay sè.
+Mốn phương tản mác bạn bè,
+Nhớ nhau hẹn quả mùa hè gặp nhau.
+...Rầm trời chớp giật mưa mau,
+Lửa đèn chấp chới, khói tầu mù u,
+Bốn phương đây bạn đó thù,
+Hiệu còi xoáy động bản đồ năm châu.
+- A, cơn thảo muội bắt đầu,
+Tuổi xanh theo gió ngâm câu dặm dài:
+Thét roi lượng sức ngựa tài,
+Coi trong cuộc rối tìm người chờ mong...
+Trai lận đận, gái long đong,
+Chờ mong khắc khoải nản lòng dăm ba;
+Nẻo về gốc mẹ cỗi cha,
+Thuyền ai nặng chở món quà đắng cay!
+Từng nơi sống áo trùng tay,
+Gió thu thổi bạc một ngày lòng son;
+Từng nơi cơm trấu, áo rơm,
+Mưa xuân nhuốm tái mấy cơn mặt vàng.
+Vượn kêu ruột buốt trên ngàn...
+Nhưng thôi! Sao việc dã tràng lầm theo?
+Nện cho vang tiếng chuông chiều,
+Thù đem sức sớm đánh kêu trống đình;
+Thở phù hơi rượu đua tranh,
+Quăng tay chén khói tan thành trời mưa.
+Dặm dài bến đón bờ đưa,
+Thuyền ai buồm lái giúp vùa vào nhau,
+Kia kìa lũ trước dòng sau,
+Trăm sông rồi cũng chung đầu đại dương.
+
+Tiêu đề Vạn Lý Trường Thành
+Trăng thấm nghìn đêm lệ chửa khô,
+Nghìn muôn vợ trẻ nhớ trai phu.
+Đầy kinh, sương muộn mang tang tóc,
+Chia khắp lòng dân oán toả mờ…
+
+Mưa rửa nghìn đêm máu chửa phai,
+Nghìn muôn trai tráng sống còn ai?
+Trăm thân già héo, trăm triều xế,
+Lặng kiếm hồn con xuất ải dài...
+
+Những xóm thanh bình khói bếp thưa;
+Miếng chiều thay sớm, mớm con thơ,
+Nàng dâu gầy võ nuôi thân lão,
+Nhịn đói chờ lương kẻ thú phu.
+
+Có những sơn thôn hết cả trai.
+Già thường quán dịch lễ Khâm sai.
+Dăm người già trẻ ca vương ý,
+Cười để thầm chôn tiếng khóc dài.
+
+Hỡi ôi! Huyết hãn triệu lê dân,
+Chất lại ngoài biên một triệu lần,
+Xây trọn Trường Thành muôn dặm vững,
+Thì muôn trường hận đắp càng căm!
+
+Ở đây, dấu vết một kỳ công
+Của quốc vương này cắt núi sông.
+Với quốc vương kia thời buổi đó,
+Ngai vàng đúc bởi máu Trinh trung.
+
+Cửa ải xa xa, cửa ải gần,
+Chiều soi bóng nhạt, đám tàn dân.
+Trong đời sống sót còn than oán,
+Kiếp vạn cô hồn kiếp vạn xuân.
+
+Nghìn thu đi vụt có nghìn tang,
+Chia với thành xưa dấu vết tàn…
+Ngoại khách ngậm ngùi tìm cố cảnh;
+Mấy tầng đổ nát mấy tầng hoang!
+
+Đất đá không bền để kỷ công,
+Đến giờ thiêu huỷ với non sông.
+Hoạ ra, còn sót mươi nền gạch,
+Hát với Càn khôn nắm bụi lòng!
+
+Ta hỏi: nghìn xưa, đem máu xương
+Đắp Trường Thành để vững ngai vương.
+Nhà Tần cũng mất? và sau đó,
+Vô dụng, thành kiên cũng đoạn trường!
+
+Và cả Trung Hoa vỡ tựa bình.
+Đến giờ quốc hận máu còn tanh.
+Mà nguồn huyết lệ sao nhân loại,
+Tưới mãi không ngừng vạn chiến tranh.
+
+Tiêu đề Vọng nhân hành
+Thăng Long đất lớn chí tung hoành,
+Bàng bạc gương hồ ánh mắt xanh.
+Một lứa chung tình từ tứ chiếng,
+Hội nhau vầy một tiệc quần anh.
+Mày gươm nét mác chữ nhân già,
+Hàm bạnh hình đồi, lưng cỗi đa.
+Tay yếu đang cùng tay mạnh dắt,
+Chưa ngất men trời hả rượu cha.
+Rau đất cá sông gào chẳng đủ,
+Nổi bùng giữa tiệc trận phong ba.
+Rằng: “Đương gió bụi mờ tơi tả,
+Thiên hạ phải dùng thơ chúng ta!”
+
+Thơ ngâm giở giọng, thời chưa thuận.
+Tan tiệc quần anh, người nuốt giận,
+Chim nhạn, chim hồng rét mướt bay,
+Vuốt cọp, chân voi còn lận đận.
+Thằng thí cho nhàm sức võ sinh,
+Thằng bó văn chương đôi gối hận
+Thằng thư trói buộc, thằng giã quê.
+Thằng phấn son nhơ... chửa một về!
+Sông Hồng chẳng phải xưa sông Dịch.
+Ta ghét hoài câu “nhất khứ hề”.
+
+Ngoài phố mưa bay: xuân bốc rượu,
+Tấc lòng mong mỏi cháy tê tê.
+- Ới ơi bạn tác ngoài trôi giạt,
+Chẳng đọc thơ ta tất cũng về.
